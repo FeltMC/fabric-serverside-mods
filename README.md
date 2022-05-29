@@ -1,9 +1,4 @@
-# Quilt Server-side Mods
-
-Wondering what Quilt is? It's a new modloader, compatible with the vast majority of Fabric mods; see [the FAQ page here](https://quiltmc.org/about/faq/)!
-Feel free to submit a Pull Request if you find a server side Quilt/Fabric mod not listed here.
-
-Also see [Optifine Alternatives](https://lambdaurora.dev/optifine_alternatives/) for a few useful client side only mods!
+# Fabric Server-side Mods
 
 Mods on this list are marked as outdated when they are *two* major Minecraft versions old - e.g. if 1.16 is the latest version, 1.14 and older mods are considered outdated.
 
