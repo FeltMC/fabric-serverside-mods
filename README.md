@@ -613,6 +613,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Textile Backup](https://www.curseforge.com/minecraft/mc-mods/textile-backup)
 - [Auto Backup](https://www.curseforge.com/minecraft/mc-mods/auto-backup)
 - [Minesave](https://www.curseforge.com/minecraft/mc-mods/minesave)
+- [Fast Backups](https://modrinth.com/mod/fastback)
 
 ### Profiling/Debugging
 - [Spark](https://www.curseforge.com/minecraft/mc-mods/spark)
