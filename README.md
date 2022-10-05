@@ -353,6 +353,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [JankAddons](https://modrinth.com/mod/jankaddons)
 - [Snowy Trees](https://modrinth.com/mod/snowy-trees)
 - [Waystones (Polymer Port)](https://modrinth.com/mod/polymer-ports-waystones)
+- [Trailblazer](https://www.curseforge.com/minecraft/mc-mods/trailblazer)
 
 ### Cauldrons
 - [Easier Powdered Snow](https://modrinth.com/mod/easierpowdersnow)
@@ -507,6 +508,9 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Conditional Keep Inventory](https://modrinth.com/mod/conditional_keep_inventory)
 - [RenameIt](https://modrinth.com/mod/renameit)
 - [Better Keepinventory](https://modrinth.com/mod/keepinventory)
+- [QuickSort](https://www.curseforge.com/minecraft/mc-mods/quicksort)
+- [Storage Bookshelves](https://www.curseforge.com/minecraft/mc-mods/storage-bookshelves)
+
 
 ## Server Management
 - [PathWatcher](https://www.curseforge.com/minecraft/mc-mods/pathwatcher) (outdated)
@@ -613,7 +617,7 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [Textile Backup](https://www.curseforge.com/minecraft/mc-mods/textile-backup)
 - [Auto Backup](https://www.curseforge.com/minecraft/mc-mods/auto-backup)
 - [Minesave](https://www.curseforge.com/minecraft/mc-mods/minesave)
-- [Fast Backups](https://modrinth.com/mod/fastback)
+- [Fast Backups](https://www.curseforge.com/minecraft/mc-mods/fastback)
 
 ### Profiling/Debugging
 - [Spark](https://www.curseforge.com/minecraft/mc-mods/spark)
