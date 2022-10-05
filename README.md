@@ -511,7 +511,6 @@ These mods make significant changes that may impact behaviour in-game, or reduce
 - [QuickSort](https://www.curseforge.com/minecraft/mc-mods/quicksort)
 - [Storage Bookshelves](https://www.curseforge.com/minecraft/mc-mods/storage-bookshelves)
 
-
 ## Server Management
 - [PathWatcher](https://www.curseforge.com/minecraft/mc-mods/pathwatcher) (outdated)
 - [Badlion Client Disabler](https://www.modrinth.com/mod/TAH3qgEe)
